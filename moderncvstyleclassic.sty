@@ -145,10 +145,10 @@
   % optional detailed information (rendering)
   \llap{\usebox{\makecvtitledetailsbox}}% \llap is used to suppress the width of the box, allowing overlap if the value of makecvtitlenamewidth is forced
   % optional photo (rendering)
-  \usebox{\makecvtitlepicturebox}\\[2.5em]%
+  \usebox{\makecvtitlepicturebox}\\[0em]% 	CHANGED FROM 2.5em
   % optional quote
   \ifthenelse{\isundefined{\@quote}}%
-    {}%
+    {}% -> CHANGED "2.5em TO SOMETHING ELSE JUST BELOW
     {{\centering\begin{minipage}{\quotewidth}\centering\quotestyle{\@quote}\end{minipage}\\[2.5em]}}%
   \par}% to avoid weird spacing bug at the first section if no blank line is left after \makecvtitle
 

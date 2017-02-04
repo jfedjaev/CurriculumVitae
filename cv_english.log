@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.2)  4 FEB 2017 14:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.2)  4 FEB 2017 17:09
 entering extended mode
 **./cv_english.tex
 (cv_english.tex
@@ -994,7 +994,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 [1
 
 {C:/Users/jfedj/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./picture.j
-pg>] <signature.png, id=35, 1102.1175pt x 468.75125pt>
+pg>] <signature.png, id=37, 1102.1175pt x 468.75125pt>
 File: signature.png Graphic file (type png)
  <use signature.png>
 Package pdftex.def Info: signature.png used on input line 140.
@@ -1012,11 +1012,11 @@ Package rerunfilecheck Info: File `cv_english.out' has not changed.
 Here is how much of TeX's memory you used:
  19003 strings out of 493334
  316570 string characters out of 3139252
- 402348 words of memory out of 3000000
+ 402346 words of memory out of 3000000
  22313 multiletter control sequences out of 15000+200000
  51525 words of font info for 65 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,12n,45p,10491b,335s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,13n,45p,10491b,342s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lm
@@ -1025,9 +1025,9 @@ am Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /public/lm/lmsso12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/marvosym
 /marvosym.pfb>
-Output written on cv_english.pdf (2 pages, 1801764 bytes).
+Output written on cv_english.pdf (2 pages, 1802346 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
+ 77 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
  17451 words of extra memory for PDF output out of 20736 (max. 10000000)
 

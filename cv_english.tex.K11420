@@ -62,7 +62,7 @@
 \section{Education}
 \cventry{2015--to date}{M.Sc. Electrical \& Computer Engineering}{Technical University of Munich}{Germany}{Current GPA: 3.7\textbf{}}{Master's studies in Electrical and Computer Engineering. Main interests are Machine Learning, Computer Vision, Robotics and Neuroscience. Relevant projects:
 	\begin{itemize}
-		\item Programming of a Turtlebot 2 robot to autonomously play a field hockey game. The work involved SLAM, path planning and computer vision algorithms in C++ within the ROS environment \link[\underline{Link to Github-repositiory}]{https://github.com/jfedjaev/TAS.git}. 
+		\item Programming of a Turtlebot 2 robot to autonomously play a field hockey game. The work involved SLAM, path planning and computer vision algorithms in C++ within the ROS environment \httplink[Link to Github-repositiory]{https://github.com/jfedjaev/TAS.git}. 
 		\item Work on a miniature electric car to make it capable of autonomously navigating within a previously mapped environment using a LIDAR, RGB-D (Kinect) camera, IMU and odometry information. Programming was conducted in Python and C++ in the ROS framework. \link[\underline{Link to Github-repositiory}]{https://github.com/jfedjaev/AdvancedCourseCpp.git}
 	\end{itemize}}
 
